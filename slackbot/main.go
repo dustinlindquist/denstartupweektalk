@@ -14,7 +14,7 @@ func main() {
 	var slack = slack.NewClient(http.DefaultClient, "https://slack.com")
 
 	var handler = handlers.New(slack, weather)
-	fmt.Println("Service Startingg")
+	fmt.Println("Service Starting")
 	if err := http.ListenAndServe("localhost:9000", handler.Message()); err != nil {
 		panic(err)
 	}
