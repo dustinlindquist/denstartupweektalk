@@ -1,0 +1,9 @@
+mode: set
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:29.49,35.2 2 1
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:41.42,42.71 1 1
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:42.71,46.17 3 1
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:50.3,51.61 2 1
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:54.3,59.17 4 1
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:46.17,48.4 1 0
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:51.61,53.4 1 0
+slack-github.com/dlindquist/go-toolkit/demo/slackbot/handlers/handlers.go:59.17,61.4 1 0
